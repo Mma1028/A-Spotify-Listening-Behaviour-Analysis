@@ -14,8 +14,6 @@ This project was created to explore what listening behaviour really looks like b
  ## Tools I Used
  SQL (SQLite): For writing queries, aggregating data, and uncovering patterns.
 
-DB Browser for SQLite: To load, explore, and execute SQL queries.
-
 Excel: For additional visualisation of query results.
 
 GitHub: To manage version control and share the project publicly.
